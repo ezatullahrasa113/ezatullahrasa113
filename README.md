@@ -37,13 +37,13 @@ I enjoy solving problems, building projects, and learning new technologies. 🚀
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/ezatullah-rasa/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ezatullah-rasa/](https://www.linkedin.com/in/ezatullah-rasa/)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="https://www.facebook.com/](https://www.facebook.com/ezatullahrasa113">
+ <a href="[https://www.facebook.com/](https://www.facebook.com/ezatullahrasa113](https://www.facebook.com/ezatullahrasa113)">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ezatullahrasa113/">
+  <a href="[https://www.instagram.com/ezatullahrasa113/](https://www.instagram.com/ezatullahrasa113/)">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:ezatullahrasa113@gmail.com">
