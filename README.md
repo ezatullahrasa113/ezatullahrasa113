@@ -46,9 +46,9 @@ I enjoy solving problems, building projects, and learning new technologies. 🚀
   <a href="https://www.instagram.com/ezatullahrasa113/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="ezatullahrasa113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:ezatullahrasa113@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 ---
