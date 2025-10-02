@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**ezatullahrasa113/ezatullahrasa113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Shah Fooladi**, a passionate Computer Engineering student and developer.  
+I enjoy solving problems, building projects, and learning new technologies. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+</div>
+
+---
+
+### 🌱 Currently Learning
+- Advanced **Algorithms** and **Database Systems**  
+- Exploring **Cloud Computing** & **AI Integration**  
+- Improving **Linux & Docker** skills for deployment  
+
+---
+
+### 🔭 I’m working on
+- Personal projects in **Java & React**  
+- Building practical web apps with **Docker** containers  
+- Exploring **open-source** contributions  
+
+---
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### ⚡ Fun Fact
+When I’m not coding, I enjoy exploring Linux tricks and containerizing random projects. 🐧🐳
