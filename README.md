@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Shah Fooladi**, a passionate Computer Engineering student and developer.  
+I'm **Ezatullah Rasa**, a passionate Computer Engineering student and developer.  
 I enjoy solving problems, building projects, and learning new technologies. 🚀
 
 ---
